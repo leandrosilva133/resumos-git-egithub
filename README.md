@@ -20,4 +20,4 @@ git init
 - [Digital Innovation One]().
 
 ## 🧑‍💼 Contatos
-[LinkedIn](www.linkedin.com/in/leandro-f-camargo133)
+- [LinkedIn](www.linkedin.com/in/leandro-f-camargo133)
